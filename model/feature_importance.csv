@@ -1,0 +1,31 @@
+feature,importance
+onehot__InternetService_Fiber optic,0.7368161533201583
+onehot__MultipleLines_No phone service,0.5177058239185743
+onehot__PaymentMethod_Electronic check,0.40914715146598174
+remainder__PaperlessBilling,0.2758396540549442
+onehot__MultipleLines_Yes,0.26280076411100445
+onehot__StreamingTV_Yes,0.2263563297236498
+onehot__StreamingMovies_Yes,0.21297814995210257
+remainder__SeniorCitizen,0.20885347177330538
+onehot__PaymentMethod_Credit card (automatic),0.10449539399143881
+onehot__PaymentMethod_Mailed check,0.05260176636934085
+remainder__TotalCharges,0.0002702314260839007
+remainder__MonthlyCharges,-0.00012370889612857018
+onehot__DeviceProtection_Yes,-0.006550349016310202
+remainder__gender,-0.01897568541487284
+remainder__Partner,-0.04683877829828532
+remainder__tenure,-0.051504742324515816
+remainder__PhoneService,-0.08521938573133164
+onehot__InternetService_No,-0.11046765987218239
+onehot__OnlineBackup_No internet service,-0.11046765987218239
+onehot__DeviceProtection_No internet service,-0.11046765987218239
+onehot__OnlineSecurity_No internet service,-0.11046765987218239
+onehot__StreamingTV_No internet service,-0.11046765987218239
+onehot__StreamingMovies_No internet service,-0.11046765987218239
+onehot__TechSupport_No internet service,-0.11046765987218239
+onehot__OnlineBackup_Yes,-0.192044135070317
+remainder__Dependents,-0.1957087447880639
+onehot__TechSupport_Yes,-0.3748434498952523
+onehot__OnlineSecurity_Yes,-0.4220956703836519
+onehot__Contract_One year,-0.8069776940687553
+onehot__Contract_Two year,-1.4610408696393942
